@@ -82,7 +82,7 @@ const Hero = ({ setShowModal }: HeroInterface) => {
           )}
         </div>
 
-        <p className="t lg:text-4xl max-w-4xl mx-auto opacity-90 mb-6 slide-up delay-2 text-white font-semibold leading-snug">
+        <p className="t lg:text-4xl max-w-4xl mx-auto opacity-90 mb-6 slide-up delay-2 text-white font-extrabold leading-snug">
           <span className=" gold-text text-2xl lg:text-6xl">
             Heiße, echte Leads in 48 Stunden –
             {/* Space html */}
