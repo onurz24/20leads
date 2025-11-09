@@ -11,7 +11,7 @@ const FAQ = () => {
   const faqs = [
     {
       q: "Kann ich auch mehr oder weniger Leads erhalten?",
-      a: "Ja, natürlich! Wir richten uns ganz nach deinem Bedarf – von 10 bis 50 Leads pro Woche ist alles möglich. Du bestimmst, wie viel Power dein Funnel haben soll.",
+      a: "Ja, natürlich! Wir richten uns ganz nach deinem Bedarf – von 20 bis 200 Leads ist alles möglich. Du bestimmst, wie viel Power dein Funnel haben soll.",
     },
     {
       q: "Wie schnell bekomme ich die ersten Leads?",
@@ -19,7 +19,7 @@ const FAQ = () => {
     },
     {
       q: "Muss ich ein Werbebudget einplanen?",
-      a: "Nein! Du brauchst kein eigenes Werbebudget. Wir übernehmen die komplette Leadgenerierung – du zahlst nur den festen Preis pro Lead. Dieser liegt (Stand November 2025) bei 4,79 € netto pro Lead.",
+      a: "Nein! Du brauchst kein eigenes Werbebudget. Wir übernehmen die komplette Leadgenerierung – du zahlst nur den festen Preis pro Lead. Dieser liegt (Stand November 2025) bei 5,99 € netto pro Lead.",
     },
     {
       q: "Kann ich die Fragen der Vorqualifizierung selbst bestimmen?",

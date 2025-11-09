@@ -20,7 +20,7 @@ const Process = () => {
     {
       num: "4",
       title: "Echte Zahlen statt leere Versprechen",
-      desc: "Du erfährst genau, was möglich ist: 20 Leads pro Woche für nur 5,99€ pro Lead. Auf Rechnung. Kein Vertrag - Keine Laufzeit. Du zahlst nur für messbare Ergebnisse.",
+      desc: "Du erfährst genau, was möglich ist. Zb: 20 Leads für nur 5,99€ pro Lead. Auf Rechnung. Kein Vertrag - Keine Laufzeit. Du zahlst nur für messbare Ergebnisse zum Festpreis. Ohne Risiko.",
     },
   ];
 

@@ -20,19 +20,6 @@ const Hero = ({ setShowModal }: HeroInterface) => {
 
   return (
     <section className="relative bg-gradient-to-br from-[#0F4C29] via-green-950 to-[#1a7a42] text-white py-14 px-6 text-center overflow-hidden">
-      {/* ✨ Shooting Stars Effect */}
-      <ShootingStars
-        starColor="#A7FFB0"
-        trailColor="#00FF9E"
-        minSpeed={12}
-        maxSpeed={28}
-        minDelay={800}
-        maxDelay={3200}
-        starWidth={12}
-        starHeight={1.5}
-        className="opacity-70"
-      />
-      
 
       {/* HERO CONTENT */}
       <div className="relative z-10">

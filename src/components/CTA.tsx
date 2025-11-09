@@ -95,7 +95,12 @@ export default function CTA({ setShowModal }: CTAInterface) {
                    <span className="font-bold">9 € Setup</span> */}
                 </p>
                 <p className="text-sm text-[#0F4C29]/70 mt-1 text-left">
-                  ✓ All-Inclusive <br/> ✓ Monatlich kündbar <br/> ✓ Keine versteckten Kosten
+                  {/* ✓ All-Inclusive <br/> ✓ Monatlich kündbar <br/> ✓ Keine versteckten Kosten */}
+
+                  ✓ All Inclusive - Keine versteckten Kosten<br/>
+                  ✓ Zum Festpreis - Ohne Werbebudget <br/>
+                  ✓ Innerhalb von 48 Stunden gesammelt <br/>
+                  ✓ In Absprache vorqualifiziert
                 </p>
               </div>
 
